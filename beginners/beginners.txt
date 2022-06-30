@@ -1,1 +1,7 @@
 ####Hello Welcome To Beginners Git Commands####
+
+Partie Fonctionnelle :
+
+Un logiciel de gestion de version c'est quoi ? 
+C'est un logiciel qui permet de creer et de gerer les differentes version de notre projet. 
+C'est comme si l'on faisait des captures de notre projet a des moments precis.
