@@ -1,7 +1,7 @@
 ####Hello guys here is the git commands guide with all details. Enjoy yourself and don't forget to give me a like, Thanks!####
 
 
-#1. Go Inside The Beginners To Start Your Git Commands Learning!
+#1. Go Inside The Beginners Folder, To Start Your Git Commands Learning!
 
 #2. Once You finished The Git Beginners Commands Move To The Next Level By Going Inside The Intermediate Folder!
 
