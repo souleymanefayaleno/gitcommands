@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T10:01:57.406Z" agent="5.0 (Windows)" version="20.0.4" etag="WmqWxKKlOvt8gejNmzJX" type="github"><diagram id="oUEoqnqyWESthjDEq1W1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-01T10:38:10.347Z" agent="5.0 (Windows)" etag="MAtAIgwqTUeomnaKBSGD" version="20.0.4" type="github">
+  <diagram id="oUEoqnqyWESthjDEq1W1" name="Page-1">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QSsCwBCtb0Z902XKGblo-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-branch-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="50" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="58" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-3/256/git-fork-128.png" vertex="1" parent="1">
+          <mxGeometry x="39" y="260" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="54" width="126" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="460" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-10" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="670" y="410" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-11" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.distributed_denial_of_service_protection;" vertex="1" parent="1">
+          <mxGeometry x="39" y="560" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/367_database_distributed_connection_network_computer_data_management_organization-128.png" vertex="1" parent="1">
+          <mxGeometry x="350" y="566" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-13" value="" style="shape=mxgraph.cisco.directors.distributed_director;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="183" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.documents_shared;" vertex="1" parent="1">
+          <mxGeometry x="200" y="211" width="90" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document_shared;" vertex="1" parent="1">
+          <mxGeometry x="480" y="234" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_shared;" vertex="1" parent="1">
+          <mxGeometry x="266" y="430" width="144" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.shared_mailbox;" vertex="1" parent="1">
+          <mxGeometry x="450" y="432.5" width="138" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.site_shared;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="193" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-19" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.shared_folder;" vertex="1" parent="1">
+          <mxGeometry x="408" y="820" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-20" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="210" y="1050" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="QSsCwBCtb0Z902XKGblo-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSsCwBCtb0Z902XKGblo-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1220" width="178.5" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
