@@ -5,3 +5,31 @@ Partie Fonctionnelle :
 Un logiciel de gestion de version c'est quoi ? 
 C'est un logiciel qui permet de creer et de gerer les differentes version de notre projet. 
 C'est comme si l'on faisait des captures de notre projet a des moments precis.
+
+## Les différentes étapes pour travailler sur un repository git:
+1) Cloner un repository:
+$ git clone https://github.com/your-username/your-repository
+
+2) Se deplacer dans le dossier cloné:
+$ cd your-repository
+
+3) Créer une nouvelle branche:
+$ git status
+$ git branch
+$ git branch your-branch-name
+$ git branch
+
+4) Se déplacer sur la nouvelle branche:
+$ git checkout your-branch-name
+ 
+5) Créer une branche et se déplacer directement dessus:
+$ git checkout -b your-branch-name
+$ git branch
+
+6) Ouvrir un fichier avec notepad pour le modifier:
+$ notepad filename
+
+7) Ouvrir un fichier/dossier avec vscode pour le modifier:
+$ code .
+
+8) 
